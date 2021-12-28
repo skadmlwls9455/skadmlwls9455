@@ -12,8 +12,7 @@
 * AI Chatbot
 
 ### 📔 My Blog
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=flag-square&logo=notion&logoColor=white"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Tistory Blog-181717?style=flag-square&logo=&logoColor=white"/></a>
+<a href="https://www.notion.so/Introduction-5ac53d497fd6462ba42168e1b54d526a" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=flag-square&logo=notion&logoColor=white"/></a>
 
 ### 📞 Find me at  
 <a href="" target="_blank"><img src="https://img.shields.io/badge/skadmlwls9455@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>

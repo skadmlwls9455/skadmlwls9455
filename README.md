@@ -9,7 +9,7 @@
 
 ## 💭 I am Interested in
 * Intelligent interface
-* AI chatbot
+* AI hatbot
 
 ### 📔 My Blog
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=flag-square&logo=notion&logoColor=white"/></a>

@@ -4,7 +4,7 @@
 <a target=""><img src="https://img.shields.io/badge/C++-blue?style=flat-square&logo=cplusplus&logoColor=white"/></a>
 
 ## 🏆 My Activity
-* Start to code (2021.12.28 ~)
+* Start to code (2022.1.1 ~)
 * 19 years old girl from South korea.
 
 ## 💭 I am Interested in
